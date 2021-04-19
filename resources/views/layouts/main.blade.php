@@ -590,68 +590,40 @@
                                 </div> <!-- fin zone photothèque -->
                             </div> <!-- fin row -->
                         </div>
-                        <div class="col-md-4">
-                            <div class="zone-phototheque mb50">
-                                <h2 class="bloc-title b35 pl10 mb20">
-                                    Succes Stories <a href="mediatheque/photos.html" class="bloc-more">Voir plus</a>
-                                </h2>
-                                <div class="album carousel">
-                                    <div id="owl-succes-stories">
-                                        <div class="item photo-item">
-                                            <div class="photo-zone">
-                                                <div class="photo-album photo_bck_cover"
-                                                    style="background:url(uploads/b6486eefecb8e0625247ea55b0b36e88.jpg);">
-                                                    <div class="actu-date"><i class="icon-clock-1"></i>22/03/2017</div>
-                                                </div>
-                                                <div class="desc-photo">
-                                                    <a href="mediatheque/detail_album/photos-oprationnelles.html">Photos opérationnelles...</a>
-                                                </div>
-                                                <img src="/assets/img/box-shadow.png" alt="" class="img-responsive">
-                                            </div>
-                                        </div>
-                                        <div class="item photo-item">
-                                            <div class="photo-zone">
-                                                <div class="photo-album photo_bck_cover" style="background:url(uploads/b83778d12f8bfceb31a1b4977304eea9.jpg);">
-                                                    <div class="actu-date">
-                                                        <i class="icon-clock-1"></i>22/03/2017
-                                                    </div>
-                                                </div>
-                                                <div class="desc-photo">
-                                                    <a href="mediatheque/detail_album/photos-institutonnelles.html">Photos institutonnelles...</a>
-                                                </div>
-                                                <img src="/assets/img/box-shadow.png" alt=""class="img-responsive">
-                                            </div>
-                                        </div>
-                                        <div class="item photo-item">
-                                            <div class="photo-zone">
-                                                <div class="photo-album photo_bck_cover" style="background:url(uploads/b83778d12f8bfceb31a1b4977304eea9.jpg);">
-                                                    <div class="actu-date">
-                                                        <i class="icon-clock-1"></i>22/03/2017
-                                                    </div>
-                                                </div>
-                                                <div class="desc-photo">
-                                                    <a href="mediatheque/detail_album/photos-institutonnelles.html">Photos institutonnelles...</a>
-                                                </div>
-                                                <img src="/assets/img/box-shadow.png" alt=""class="img-responsive">
-                                            </div>
-                                        </div>
-                                        <div class="item photo-item">
-                                            <div class="photo-zone">
-                                                <div class="photo-album photo_bck_cover" style="background:url(uploads/b83778d12f8bfceb31a1b4977304eea9.jpg);">
-                                                    <div class="actu-date">
-                                                        <i class="icon-clock-1"></i>22/03/2017
-                                                    </div>
-                                                </div>
-                                                <div class="desc-photo">
-                                                    <a href="mediatheque/detail_album/photos-institutonnelles.html">Photos institutonnelles...</a>
-                                                </div>
-                                                <img src="/assets/img/box-shadow.png" alt=""class="img-responsive">
-                                            </div>
-                                        </div>
-                                    </div> <!-- fin album -->
-                                </div> <!-- fin zone photothèque -->
-                            </div> <!-- fin row -->
+                       
+                        <div class="col-md-4 col-sm-4 col-xs-12 small-video pl5">
+                            <h2 class="bloc-title b35 pl10 mb20">
+                                Videothèques <a href="mediatheque/photos.html" class="bloc-more">Voir plus</a>
+                            </h2>
+                        <div class="item-video mb10">
+                        <div class="img-video photo_bck_cover" style="background: url(http://i1.ytimg.com/vi/Yu2beemp9Qs/mqdefault.jpg);">
+                          <div class="cover-video-home"></div>
                         </div>
+                        <div class="title-video">
+                          <a href="http://www.defense.gouv.ci/mediatheque/detail_video/tmoignage-du-capitaine-yassoungo-kon-ancien-combattant-et-prsident-de-lassociation-fraternelle-des-anciens-combattants-de-cte-divoire">Témoignage du Capitaine Yassoungo Koné, ancien combattant et Présid...</a>
+                          <div class="date"><i class="icon-clock-1"></i>  14/11/2018</div>
+                        </div>
+                      </div> <!-- fin item video -->
+                                          <div class="item-video mb10">
+                        <div class="img-video photo_bck_cover" style="background: url(http://i1.ytimg.com/vi/ERfUiys6SM4/mqdefault.jpg);">
+                          <div class="cover-video-home"></div>
+                        </div>
+                        <div class="title-video">
+                          <a href="http://www.defense.gouv.ci/mediatheque/detail_video/ceremonie-de-remise-de-vehicules-aux-faci-et-a-la-gendarmerie-nationale-par-le-ministre-detat-ministre-de-la-defense-hamed-bakayoko8800">CEREMONIE DE REMISE DE VEHICULES AUX FACI ET A LA GENDARMERIE NATIONAL...</a>
+                          <div class="date"><i class="icon-clock-1"></i>  15/05/2018</div>
+                        </div>
+                      </div> <!-- fin item video -->
+                                          <div class="item-video mb10">
+                        <div class="img-video photo_bck_cover" style="background: url(http://i1.ytimg.com/vi/9YIpaX15LEg/mqdefault.jpg);">
+                          <div class="cover-video-home"></div>
+                        </div>
+                        <div class="title-video">
+                          <a href="http://www.defense.gouv.ci/mediatheque/detail_video/fin-de-formation-de-militaires-au-maintien-de-la-paix">FIN DE FORMATION DE MILITAIRES AU MAINTIEN DE LA PAIX...</a>
+                          <div class="date"><i class="icon-clock-1"></i>  30/08/2017</div>
+                        </div>
+                      </div> <!-- fin item video -->
+                                      
+                </div>
                     </div>
                     <div class="row">
                         <div class="zone-partenaire">
