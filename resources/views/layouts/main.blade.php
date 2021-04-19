@@ -55,15 +55,16 @@
         <div class="header"><!-- fin header -->
             <div class="content-wrapper mb-2">
                 <div class="logo-zone"><!-- logo zone -->
-                    <div class="row  mt20">
+                    <div class="row  mt20 mb10">
                         <div class="col-md-2 col-sm-2 col-xs-3 logo">
-                            <a href="accueil.html"><img width="100%" src="/assets/img/logo.png" alt="logo" class="img-responsive"></a>
+                            <a href="accueil.html"><img  src="/assets/img/logo.png" alt="logo" class="img-responsive"></a>
                         </div>
                         <div class="col-md-8 col-sm-10 col-xs-9">
-                            <a href="#"><img src="/assets/img/banniere.png" alt="baniere" class="img-responsive"></a>
+                           {{--  <a href="#"><img src="/assets/img/banniere.png" alt="baniere" class="img-responsive"></a> --}}
+                           <h1 style="text-align: center"><span style="color:#FF7B06">DIRECTION</span><span style="color:white"> GENERALE </span> <span style="color: #FF7B06"> EMPLOI</span></h1>
                         </div>
                         <div class="col-md-2 col-sm-2 col-xs-3">
-                            <a href="accueil.html"><img width="100%" src="/assets/img/armoirie.png" alt="armoirie" class="img-responsive"></a>
+                            <a href="accueil.html"><img width="63%" height="44%" src="/assets/img/armoirie.png" alt="armoirie" class="img-responsive"></a>
                         </div>
                     </div>
                 </div>
@@ -163,107 +164,23 @@
                         <li data-target="#carousel-id" data-slide-to="" class=""></li>
                         <li data-target="#carousel-id" data-slide-to="" class=""></li>
                         <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
-                        <li data-target="#carousel-id" data-slide-to="" class=""></li>
                     </ol>
                     <div class="carousel-inner">
-
                         <div class="item">
                             <div class="cover-caroussel"></div>
-                            <div class="slogan">ECOLE DE GENDARMERIE TOROGUHE (DALOA)</div>
-                            <img alt="" src="uploads/27472c25b9870152b41f5354d9725dda.jpg">
+                            <div class="slogan">LOREM IPUSM LOREM IPUSM </div>
+                            <img alt="" src="uploads/slide1.png">
                         </div>
                         <div class="item">
                             <div class="cover-caroussel"></div>
-                            <div class="slogan">ECOLE DE GENDARMERIE ABIDJAN</div>
-                            <img alt="" src="uploads/403ef091f4f9655b9be65b6d8eb01ba7.jpg">
+                            <div class="slogan">LOREM IPUSN LOREM IPUSM</div>
+                            <img alt="" src="uploads/slide2.png">
                         </div>
                         <div class="item">
                             <div class="cover-caroussel"></div>
-                            <div class="slogan">EXERCICE DES FORCES SPECIALES</div>
-                            <img alt="" src="uploads/d9bf47125dccd2c2931bf16ec1b5ed64.jpg">
+                            <div class="slogan">LOREM IPUSM LOREM IPUSM</div>
+                            <img alt="" src="uploads/slide3.png">
                         </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">L'Unité d'Intervention de la Gendarmerie Nationale</div>
-                            <img alt="" src="uploads/d527dc118a72c0f033ab757b1b05a25c.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">1ER BATAILLON BLINDE : EFFICACITE - LOYAUTE - DISPONIBILITE</div>
-                            <img alt="" src="uploads/42c978c8740372b1816d80e8315b250d.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">ECOLE DES FORCES ARMEES : S'INSTRUIRE POUR VAINCRE</div>
-                            <img alt="" src="uploads/7a0e4262a48d26efbb6321a417fbdb38.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">ECOLE NATIONALE DES SOUS-OFFICIERS D'ACTIVE : S'INSTRUIRE POUR NE PAS
-                                SUBIR</div>
-                            <img alt="" src="uploads/9993f181eb66a996251eab9d3531ba6b.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">ARMEE DE L'AIR : QUI TIENT LE HAUT TIENT LE BAS</div>
-                            <img alt="" src="uploads/5d66b2ad63f9773b7d1fa716698d2751.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">FUSILIERS MARINS COMMANDOS : UNE POIGNEE D'HOMMES FIERS</div>
-                            <img alt="" src="uploads/1bc94142b860143a886251584ece10e8.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">ECOLE MILITAIRE PREPARATOIRE TECHNIQUE : S'INSTRUIRE POUR MIEUX SERVIR
-                            </div>
-                            <img alt="" src="uploads/72c54d64a06965c8f435abda9bfa23d7.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">GARDE REPUBLICAINE : FACTA NO VERBA</div>
-                            <img alt="" src="uploads/3d151f44e5f0788d0510028a205d872f.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">FORCES SPECIALES : ULTIMUM RECURSUM</div>
-                            <img alt="" src="uploads/1abdb8f190b0059b919c92fb0c0aaa31.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">UNITE D'INTERVENTION DE LA GENDARMERIE NATIONALE : PRO PATRIA PRO LEGE
-                            </div>
-                            <img alt="" src="uploads/d0d134923465b5e0105f11677891ead7.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">GROUPEMENT DE SAPEURS POMPIERS MILITAIRES : SAUVER OU PERIR</div>
-                            <img alt="" src="uploads/b065ad7fac8849b04fdb15c47ea18f36.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">1ER BATAILLON DE COMMANDOS PARACHUTISTES :TOUJOURS AUX AVANT-GARDES
-                            </div>
-                            <img alt="" src="uploads/d574e1f2d2e187baac06ef02806b6d30.jpg">
-                        </div>
-                        <div class="item">
-                            <div class="cover-caroussel"></div>
-                            <div class="slogan">1er BATAILLON D'INFANTERIE : SECOND DE PERSONNE</div>
-                            <img alt="" src="uploads/e1251ef8748523df127db8104d3414bf.jpg">
-                        </div>
-
                     </div>
                </div>
             </div>
@@ -276,13 +193,14 @@
                                         plus</a></h2>
                                 <div class="zone-actu-home">
                                     <div class="big-actu"
-                                        style="background: url(uploads/e2b1cd455a47b0fe0d6e87bb52b545a7.jpg)">
+                                        style="background: url(assets/img/dg.jpg)">
                                         <div class="cover-video">
                                             <a href="actualite/details_actu/le-ministre-dtat-ministre-de-la-defense-monsieur-tene-birahima-ouattara-a-reu-les-dossiers-de-son-departement.html"
                                                 class="title-other-video">
                                                 <div class="une-date"><i class="icon-clock"></i> 09/04/2021</div>
-                                                <div class="title-big-actu">LE MINISTRE D'ÉTAT, MINISTRE DE LA DEFENSE
-                                                    MONSIEUR TENE BIRAHIMA OUATTARA A REÇU LES DOSSIERS DE SON D...</div>
+                                                <div class="title-big-actu">
+                                                    « Une jeunesse reconsidérée et responsabilisée, c’est certes une jeunesse rassurée quant à son futur ... ».
+                                                </div>
                                             </a>
                                         </div>
                                     </div>
