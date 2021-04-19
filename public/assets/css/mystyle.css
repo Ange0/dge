@@ -1,0 +1,17 @@
+/* #orange => #fc9327 */
+.social-part {
+    color : #fc9327;
+    margin-top:20px;
+
+}
+.social-part .fa{
+    padding-right:20px;
+
+    float: right;
+}
+ul li a{
+    margin-right: 20px;
+}
+ul li a:hover{
+    color : #eb8117;
+}
